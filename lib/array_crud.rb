@@ -16,6 +16,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+  create_an_array = ["robbie", "renee", "jeanie", "jerry"]
   create_an_array.pop
 end
 
