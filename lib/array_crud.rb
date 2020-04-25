@@ -32,7 +32,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  p create_an_array(-1)
+  puts create_an_array(-1)
 end
 
 def update_element_from_index(array, index_number, element)
